@@ -260,7 +260,3 @@ Any violation of this policy is grounds for termination.
 - Be kind and respectful.
 - Be honest and capable.
 - Make the customer say WOW.
-
-## Next migration steps
-
-This is the first handbook page migrated from HelpDocs. The remaining articles can now follow the same workflow: extract, convert to markdown, add to `docs/`, and validate with a site build.
