@@ -9,7 +9,7 @@ const config: Config = {
     baseUrl: '/',
 
     organizationName: 'markupstart',
-    projectName: 'nixos_configs',
+    projectName: 'handbook',
 
     onBrokenLinks: 'throw',
 
@@ -25,7 +25,7 @@ const config: Config = {
                 docs: {
                     routeBasePath: '/docs',
                     sidebarPath: './sidebars.ts',
-                    editUrl: 'https://github.com/markupstart/nixos_configs',
+                    editUrl: 'https://github.com/markupstart/handbook',
                 },
                 blog: false,
                 theme: {
@@ -52,7 +52,7 @@ const config: Config = {
                     label: 'Handbook',
                 },
                 {
-                    href: 'https://github.com/markupstart/nixos_configs',
+                    href: 'https://github.com/markupstart/handbook',
                     label: 'GitHub',
                     position: 'right',
                 },
