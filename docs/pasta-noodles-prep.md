@@ -13,4 +13,4 @@ title: Pasta Noodles Prep
 6. Cool the noodles thoroughly. Once fully cooled, turn off the water and let the noodles dry.
 7. Let the noodles dry for about 10 mins. Once dry, put them into a container and place them in the walk-in immediately.
 
-*** IT IS VERY IMPORTANT THAT THE NOODLES ARE PUT AWAY AS SOON AS THEY ARE DRY AND NOODLES LEFT OUT LONGER WILL HAVE TO BE THROWN AWAY
+**IT IS VERY IMPORTANT THAT THE NOODLES ARE PUT AWAY AS SOON AS THEY ARE DRY AND NOODLES LEFT OUT LONGER WILL HAVE TO BE THROWN AWAY**
