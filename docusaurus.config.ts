@@ -5,8 +5,8 @@ const config: Config = {
     tagline: 'Living documentation for hallscloud.org',
     favicon: 'img/favicon.ico',
 
-    url: 'https://handbook.hallscloud.org',
-    baseUrl: '/',
+    url: 'https://markupstart.github.io',
+    baseUrl: '/handbook/',
 
     organizationName: 'markupstart',
     projectName: 'handbook',
