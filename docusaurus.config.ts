@@ -67,10 +67,6 @@ const config: Config = {
                             label: 'Getting Started',
                             to: '/docs/intro',
                         },
-                        {
-                            label: 'Migration Plan',
-                            to: '/docs/migration-plan',
-                        },
                     ],
                 },
             ],

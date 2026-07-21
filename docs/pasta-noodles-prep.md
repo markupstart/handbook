@@ -1,3 +1,8 @@
+---
+sidebar_position: 3
+title: Pasta Noodles Prep
+---
+
 NOODLES
 
 1. Fill a large noodle pot 3/4 of the way with water.
