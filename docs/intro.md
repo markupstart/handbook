@@ -5,15 +5,9 @@ title: Welcome
 
 # Welcome
 
-This handbook is the new home for the content currently published in HelpDocs.
+This handbook is the new home for Hall's Kitchen Employee Handbook
 
-## What belongs here
+## Expectations
 
-- Customer-facing help articles
-- Internal operating procedures
-- Setup and troubleshooting guides
-- Policies and reference material
-
-## Migration approach
-
-Content from `hallskitchen.helpdocsonline.com` should be moved in sections so the new site stays readable and searchable while the old content is retired.
+All Hall's Kitchen Employees are expected to know the policies and procedures outlined on this site.
+If there are any questions, contact your manager.
