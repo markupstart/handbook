@@ -2,11 +2,13 @@
 sidebar_position: 3
 ---
 
+import MarinaraDiagram from './images/marinara-sauce-prep.svg';
+
 # Marinara Sauce Prep
 
-![Marinara sauce prep diagram](./images/marinara-sauce-prep.png)
+<img src={MarinaraDiagram} alt="Marinara sauce prep diagram" />
 
-Place the image file in [docs/images/](docs/images) with the filename `marinara-sauce-prep.png` so it renders here.
+Place the image file in docs/images with the filename marinara-sauce-prep.png so it renders here.
 
 ## Ingredients
 
