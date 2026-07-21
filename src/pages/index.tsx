@@ -7,7 +7,7 @@ export default function Home(): JSX.Element {
             <main className="home-shell">
                 <section className="hero-card">
                     <p className="eyebrow">Halls Kitchen Handbook</p>
-                    <h3>Operational docs for Halls Kitchen.</h3>
+                    <h2>Operational docs for Halls Kitchen.</h2>
                     <p className="hero-copy">
                         This handbook is for guides, policies, and kitchen workflows.
                     </p>
