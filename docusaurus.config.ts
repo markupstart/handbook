@@ -24,7 +24,6 @@ const config: Config = {
                 docs: {
                     routeBasePath: '/docs',
                     sidebarPath: './sidebars.ts',
-                    editUrl: 'https://github.com/markupstart/handbook',
                 },
                 blog: false,
                 theme: {
