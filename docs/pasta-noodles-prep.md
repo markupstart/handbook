@@ -3,6 +3,8 @@ sidebar_position: 3
 title: Pasta Noodles Prep
 ---
 
+## Instructions
+
 1. Fill a large noodle pot 3/4 of the way with water.
 2. Plug in and make sure the orange light is on and the temp is set to 400 degrees.
 3. Once the water starts boiling, put in a bag of noodles.
