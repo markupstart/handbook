@@ -4,4 +4,4 @@ This repository contains the Docusaurus site that hosts the handbook for Hall's 
 
 ## Deployment
 
-This site is set up as a static Docusaurus handboo
+This site is set up as a static Docusaurus handbook.
