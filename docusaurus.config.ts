@@ -1,9 +1,8 @@
 import type { Config } from '@docusaurus/types';
 
 const config: Config = {
-    title: 'Hallscloud Handbook',
-    tagline: 'Living documentation for hallscloud.org',
-    favicon: 'img/favicon.ico',
+    title: 'Halls Kitchen Handbook',
+    tagline: 'Handbook for Halls Kitchen',
 
     url: 'https://markupstart.github.io',
     baseUrl: '/handbook/',
@@ -43,7 +42,7 @@ const config: Config = {
 
     themeConfig: {
         navbar: {
-            title: 'Hallscloud Handbook',
+            title: 'Halls Kitchen Handbook',
             items: [
                 {
                     type: 'docSidebar',
@@ -75,7 +74,7 @@ const config: Config = {
                     ],
                 },
             ],
-            copyright: `Copyright © ${new Date().getFullYear()} Hallscloud`,
+            copyright: `Copyright © ${new Date().getFullYear()} Halls Kitchen`,
         },
         prism: {
             theme: {
