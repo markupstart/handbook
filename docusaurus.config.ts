@@ -4,8 +4,8 @@ const config: Config = {
     title: 'Halls Kitchen Handbook',
     tagline: 'Handbook for Halls Kitchen',
 
-    url: 'https://markupstart.github.io',
-    baseUrl: '/handbook/',
+    url: 'https://hallskitchenhandbook.com',
+    baseUrl: '/',
 
     organizationName: 'markupstart',
     projectName: 'handbook',
