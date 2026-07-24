@@ -58,17 +58,7 @@ const config: Config = {
         },
         footer: {
             style: 'dark',
-            links: [
-                {
-                    title: 'Handbook',
-                    items: [
-                        {
-                            label: 'Getting Started',
-                            to: '/docs/intro',
-                        },
-                    ],
-                },
-            ],
+
             copyright: `Copyright © ${new Date().getFullYear()} Halls Kitchen`,
         },
         prism: {
