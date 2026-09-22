@@ -7,7 +7,32 @@ title: Employee Handbook
 
 Must read for all employees.
 
-Updated on 18 NOV 25.
+Updated on 22 SEP 26.
+
+## Employee Illness Policy
+
+###All food employees shall report to their supervisor if they are experiencing any of the following symptoms:
+-Diarrhea
+-Fever
+-Vomiting
+-Jaundice
+-Sore throat with fever Lesions (such as boils, and infected wounds, regardless of size) containing pus on the
+fingers, hand, or any exposed body part
+
+###Employees will also notify their supervisor whenever diagnosed by a healthcare
+provider as being ill with any of the following diseases that can be transmitted through
+food or person-to-person by casual contact such as:
+-Salmonellosis
+-Shigellosis
+-Escherichia Coli
+-Hepatitis A virus
+-or Norovirus
+
+###In addition to the above conditions, food employees shall notify their supervisor if they
+have been exposed to the following high-risk conditions:
+-Exposure to or suspicion of causing any confirmed outbreak involving the above illness
+-A member of their household is diagnosed with any of the above illness
+-A member of their household is attending or working in a setting that is experiencing a confirmed outbreak of the above illnesses
 
 ## 1. New Employee Paperwork
 
