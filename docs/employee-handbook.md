@@ -89,7 +89,6 @@ Unacceptable pants and shorts:
 - Jeans with holes
 - Basketball shorts
 - Joggers
-- Leggings
 - Sweatpants
 - Colored pants other than black or khaki
 
