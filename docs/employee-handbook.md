@@ -1,4 +1,4 @@
-
+"
 ---
 sidebar_position: 1
 title: Employee Handbook
@@ -26,7 +26,7 @@ Updated on 22 SEP 26.
 - Hepatitis A virus
 - or Norovirus
 
-### n addition to the above conditions, food employees shall notify their supervisor if they have been exposed to the following high risk conditions:
+### In addition to the above conditions, food employees shall notify their supervisor if they have been exposed to the following high risk conditions:
 - Exposure to or suspicion of causing any confirmed outbreak involving the above illness
 - A member of their household is diagnosed with any of the above illness
 - A member of their household is attending or working in a setting that is experiencing a confirmed outbreak of the above illnesses
