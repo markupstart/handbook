@@ -11,7 +11,7 @@ Updated on 22 SEP 26.
 
 ## Employee Illness Policy
 
-### All food employees shall report to their supervisor if they are experiencing any of the following symptoms:
+### All employees shall report to their supervisor if they are experiencing any of the following symptoms:
 - Diarrhea
 - Fever
 - Vomiting
