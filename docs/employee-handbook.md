@@ -19,16 +19,22 @@ Updated on 22 SEP 26.
 - Sore throat with fever Lesions (such as boils, and infected wounds, regardless of size) containing pus on the fingers, hand, or any exposed body part
 
 ### Employees will also notify their supervisor whenever diagnosed by a healthcare provider as being ill with any of the following diseases that can be transmitted through food or person-to-person by casual contact such as:
-- Salmonellosis
-- Shigellosis
-- Escherichia Coli
-- Hepatitis A virus
-- or Norovirus
+
+- Norovirus
+- Salmonella Nontyphoidal
+- Salmonella typhi (Typhoid fever)
+- Shigella
+- E. coli
+- Hepatitis A
 
 ### In addition to the above conditions, employees shall notify their supervisor if they have been exposed to the following high risk conditions:
 - Exposure to or suspicion of causing any confirmed outbreak involving the above illness
 - A member of their household is diagnosed with any of the above illness
 - A member of their household is attending or working in a setting that is experiencing a confirmed outbreak of the above illnesses
+
+### A manager MUST report when an employee has any of these illnesses to the health department. If you have any of the illnesses listed above, you may be excluded* or restricted** from work.
+
+### You must be Symptom free for a minimum of 24 hours prior to returning to work. If you have been diagnosed with any of the illness, you will not be able to return to work until approved by the health department. 
 
 ## 1. New Employee Paperwork
 
