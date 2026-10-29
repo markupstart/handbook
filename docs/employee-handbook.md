@@ -270,6 +270,10 @@ Hall's Kitchen is concerned with providing a safe, healthy, and productive work 
 
 Any violation of this policy is grounds for termination.
 
+### Tampering with Company property
+
+- Tampering with company property is prohibited this includes unplugging or turning off screens, computers and tablets. As well as hacking or intentionally destroying company property or devices.
+
 ## 8. Customer Service
 
 ### Core values
